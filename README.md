@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://cacerescarlos.github.io/cacerescarlos/1635504162760.jpg" align="center" style="width: 100%" />
+<img src="https://dev-carloscaceres.github.io/dev-carloscaceres/1635504162760.jpg" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Carlos Caceres, Software Engineer | Freelance Developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [BackPack-Ecommerce](https://github.com/cacerescarlos/spring-boot-java)  
+- 🔭 I’m currently working on [BackPack-Ecommerce](https://github.com/dev-carloscaceres/spring-boot-java)  
   
 
 - 🌱 I’m currently learning Spring Boot and .Net Core  
@@ -92,7 +92,7 @@
 <a href="https://instagram.com/cc0461" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/cacerescarlos" target="_blank">
+<a href="https://github.com/dev-carloscaceres" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -102,7 +102,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cacerescarlos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-carloscaceres&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -122,14 +122,14 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=cacerescarlos&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=dev-carloscaceres&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/cacerescarlos" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/dev-carloscaceres" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
